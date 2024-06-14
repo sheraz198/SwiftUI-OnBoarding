@@ -5,7 +5,7 @@ Welcome to the OnBoarding app! This app demonstrates a simple onboarding flow us
 
 # Preview
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/sheraz198/SwiftUI-OnBoarding/Screen/Demo.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/sheraz198/main/SwiftUI-OnBoarding/Screen/Demo.gif" width="400" />
 </div>
 
 
